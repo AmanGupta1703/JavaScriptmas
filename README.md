@@ -1,3 +1,3 @@
 # JavaScriptmas
 
--24 Day Challenge
+24 Day Challenge

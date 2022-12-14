@@ -1,5 +1,14 @@
 function countVowelConsonant(str) {
     // write code here  
+    
+    // const strArray = str.split('')
+    // const vowelRegex = /[aeiou]/
+    // const sum = strArray.reduce((total, currentValue) => {
+    //     return vowelRegex.test(currentValue) ? total += 1 : total += 2
+
+    // }, 0);
+    // return sum
+    
     const strArray = str.split('')
     let sum = 0
     const vowels = ['a', 'e', 'i', 'o', 'u']
